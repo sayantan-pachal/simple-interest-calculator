@@ -1,0 +1,8 @@
+Command used:
+curl https://api.github.com/repos/sayantan-pachal/mcino-Introduction-to-Git-and-GitHub
+
+Terminal Output:
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"id":1126854851,"name":"mcino-Introduction-to-Git-and-GitHub","full_name":"sayantan-pachal/mcino-Introduction-to-Git-and-GitHub", ... }
+RawContent        : HTTP/1.1 200 OK
