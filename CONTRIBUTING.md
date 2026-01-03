@@ -17,3 +17,5 @@ You can contribute by:
 Please ensure that all interactions follow the project's Code of Conduct and maintain a respectful and inclusive environment.
 
 We appreciate your support and efforts to improve this project.
+
+Please feel free to fork the repository and submit pull requests.
