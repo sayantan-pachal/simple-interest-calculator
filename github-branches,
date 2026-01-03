@@ -1,4 +1,7 @@
-PS C:\Users\sayan\Programming\IBM Course Work\Getting Started with Git and GitHub\mcino-Introduction-to-Git-and-GitHub> git branch -vv
-* bug-fix-typo 74b7d91 Add test line for Task 8 PR
-  main         95563e1 [origin/main: ahead 1] Add test line for Task 7 merge
-PS C:\Users\sayan\Programming\IBM Course Work\Getting Started with Git and GitHub\mcino-Introduction-to-Git-and-GitHub>
+Command used:
+git branch
+
+Terminal Output:
+* main
+  bug-fix-typo
+
